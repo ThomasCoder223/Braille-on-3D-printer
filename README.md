@@ -1,7 +1,7 @@
 # Braille-on-3D-printer
 Python code to translate a text input into a G-Code file for a 3D printer to punch braille.
 
-IMPORTANT: Home your 3D printer before each code execution.
+**IMPORTANT**: Home your 3D printer before each code execution.
 
 Instructions:
 - Run the code in console (using a Repl works best)
